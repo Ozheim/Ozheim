@@ -21,7 +21,7 @@ Je me spécialise dans l’apprentissage complet du développement web, en me co
 ### Compétences principales
 - **Front-end** : React.js, JavaScript/ES6+, CSS, SCSS
 - **Back-end** : Node.js, Express, MongoDB
-- **Autres outils** : Git, Postman, Shell Script, bases en Python
+- **Autres outils** : Git, Postman, Shell Script, bases en Python, bases en Php
 
 ### Projets intéressants
 - **Kasa** : Une plateforme de location d'appartements, développée avec **React**. Ce projet m'a permis d'approfondir mes connaissances front-end.
@@ -42,6 +42,8 @@ Je me spécialise dans l’apprentissage complet du développement web, en me co
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
+
 </p>
 
 
