@@ -6,6 +6,10 @@ Je m'appelle Heikel Zouaoui-Rabah, développeur web en apprentissage, actuelleme
     <img src="https://komarev.com/ghpvc/?username=Ozheim" alt="Ozheim" />
 </p>
 
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=lencedev&theme=matrix&no-frame=false&no-bg=false&margin-w=10&title=MultiLanguage,LongTimeUser,Commits,Repositories,Issues,Followers" alt="GitHub Trophies" />
+</p>
+
 ## Qui suis-je ?
 
 - 💡 **En constante évolution** – J'affine mes compétences en travaillant sur des projets personnels, explorant les technologies front-end et back-end pour devenir un développeur complet.
