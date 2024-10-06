@@ -7,7 +7,7 @@ Je m'appelle Heikel Zouaoui-Rabah, développeur web en apprentissage, actuelleme
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=lencedev&theme=matrix&no-frame=false&no-bg=false&margin-w=10&title=MultiLanguage,LongTimeUser,Commits,Repositories,Issues,Followers" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Ozheim&theme=matrix&no-frame=false&no-bg=false&margin-w=10&title=MultiLanguage,LongTimeUser,Commits,Repositories,Issues,Followers" alt="GitHub Trophies" />
 </p>
 
 ## Qui suis-je ?
