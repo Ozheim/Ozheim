@@ -32,7 +32,7 @@ Je me spécialise dans l’apprentissage complet du développement web, en me co
 - **Warrior Muscle Machine** : Mon projet full-stack personnel le plus ambitieux, toujours en développement, pour la gestion complète des entraînements de musculation. Ce projet représente un véritable défi technique, combinant un back-end robuste avec **Node.js**, **Express**, et **MongoDB**, et un front-end réactif en **React**. Il m’a permis de mettre en pratique l’ensemble de mes compétences en développement web, du design à la mise en œuvre de fonctionnalités complexes, tout en continuant à l'améliorer.
 
 
-## Technologies que j'apprends
+## Mes technologies
 <p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
