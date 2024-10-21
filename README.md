@@ -30,6 +30,9 @@ Je me spécialise dans l’apprentissage complet du développement web, en me co
 ### Projets intéressants
 - **Kasa** : Une plateforme de location d'appartements, développée avec **React**. Ce projet m'a permis d'approfondir mes connaissances front-end.
 - **Warrior Muscle Machine** : Mon projet full-stack personnel le plus ambitieux, toujours en développement, pour la gestion complète des entraînements de musculation. Ce projet représente un véritable défi technique, combinant un back-end robuste avec **Node.js**, **Express**, et **MongoDB**, et un front-end réactif en **React**. Il m’a permis de mettre en pratique l’ensemble de mes compétences en développement web, du design à la mise en œuvre de fonctionnalités complexes, tout en continuant à l'améliorer.
+- **Job Board** : [Job Board Full Stack](https://github.com/BIIIIIIM/job_board) avec React, Node.js, et MongoDB. Développement en équipe, focus sur l’UX et les fonctionnalités dynamiques pour simplifier la recherche d'emploi.
+
+
 
 
 ## Mes technologies
